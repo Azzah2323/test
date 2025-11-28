@@ -1,0 +1,18 @@
+- membuat konsep database dan membuat tabel pic, tabel permohonan, tabel balai dan tabel pic balai
+- melakukan diskusi dengan pak titis mengenai alur aplikasi web yang akan dibuat. Mulai dari pembuatan database, entitas,
+alur ui nya.
+- menelaah SOP perbedaan Fasop dan jalbar dan membahasnya bersama dengan pak titis, bu dian dan teman-teman yang lain.
+-pemberian arahan dari direktur prasarana perkeretaapian 
+
+======================================
+Tentu, berikut adalah uraian ringkas kegiatan Anda dalam bentuk satu paragraf padat:
+
+Kegiatan hari ini berfokus pada penguatan fondasi teknis dan pemahaman operasional proyek aplikasi web. 
+Secara teknis, langkah awal yang krusial telah diambil dengan membuat konsep database dan merealisasikannya
+menjadi empat tabel inti, yaitu pic, permohonan, balai, dan pic_balai, yang akan menjadi struktur data utama sistem. 
+Pekerjaan teknis ini kemudian dilanjutkan dengan diskusi mendalam bersama Pak Titis mengenai keseluruhan alur aplikasi, 
+mulai dari konfirmasi entitas database hingga perancangan alur antarmuka pengguna (UI), demi memastikan keselarasan fungsionalitas. 
+Selain itu, untuk menjamin akurasi aplikasi, dilakukan penelaahan SOP yang membedakan secara spesifik antara FASOP dan 
+JALBAR, dilanjutkan dengan diskusi bersama Pak Titis, Bu Dian, dan rekan-rekan. 
+Hari diakhiri dengan sesi penting pemberian arahan dari Direktur Prasarana Perkeretaapian, 
+yang memberikan pembelajaran dan panduan strategis yang akan mengarahkan proyek secara keseluruhan.
